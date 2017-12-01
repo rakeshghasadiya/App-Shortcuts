@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">App Shortcuts</string>
+
+    <string name="compose_shortcut_short_label1">Short label1</string>
+    <string name="compose_shortcut_long_label1">Long label1</string>
+    <string name="compose_disabled_message1">Disabled message1</string>
+
+    <string name="compose_shortcut_short_label2">Short label2</string>
+    <string name="compose_shortcut_long_label2">Long label2</string>
+    <string name="compose_disabled_message2">Disabled message2</string>
+
+    <string name="compose_shortcut_short_label3">Short label3</string>
+    <string name="compose_shortcut_long_label3">Long label3</string>
+    <string name="compose_disabled_message3">Disabled message3</string>
+
+    <string name="compose_shortcut_short_label4">Short label4</string>
+    <string name="compose_shortcut_long_label4">Long label4</string>
+    <string name="compose_disabled_message4">Disabled message4</string>
+
+    <string name="compose_shortcut_short_label5">Short label5</string>
+    <string name="compose_shortcut_long_label5">Long label5</string>
+    <string name="compose_disabled_message5">Disabled message5</string>
+</resources>
